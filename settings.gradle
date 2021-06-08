@@ -1,0 +1,6 @@
+rootProject.name = 'netflix-micro-services'
+
+include 'auth'
+include 'crud'
+include 'discovery'
+include 'payment'
